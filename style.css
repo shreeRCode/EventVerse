@@ -65,13 +65,13 @@ body {
     min-height: 100vh;
     margin: 0;
     background-color: #f5f5f5; 
-        background-image: url('background.jpg'); /* Replace with the actual path to your image */
-        background-size: cover; /* Ensures the image covers the entire viewport */
-        background-position: center center; /* Centers the image */
-        background-attachment: fixed; /* Keeps the image fixed while scrolling */
-        background-repeat: no-repeat; /* Prevents the image from repeating */
-        margin: 0; /* Ensures no margin around the page */
-        height: 100vh; /* Makes sure the background covers the full height of the viewport */
+        background-image: url('background.jpg'); 
+        background-size: cover; 
+        background-position: center center; 
+        background-attachment: fixed; 
+        background-repeat: no-repeat;
+        margin: 0; 
+        height: 100vh;
     }
   
 #image{
